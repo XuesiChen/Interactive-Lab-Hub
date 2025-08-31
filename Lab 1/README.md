@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATOR HERE**\*\*
+**Akash Basu, Benthan Vu, Evan Fang, Sean Lewis, Xuesi Chen**
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -72,25 +72,40 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
+**Setting: A night club.**
+**Players: customers in the club, DJ and some other service workers could also be in the club.**
+**Acticity: customers are trying to have a good time, and the service providers are trying to cater a good experience by providing good music, lighting and food.**
+**Goals: The goal of the customers are dancing with the music, enjoying the club vibe, spend their money; the goal of the club workers is to provide good music, control lightings and offer good and drinks.**
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-\*\***Include pictures of your storyboards here**\*\*
+<img src="/Lab 1/images/storyboard_int1.png" alt="Interation1" style="width:100%;">
+<img src="/Lab 1/images/storyboard_int2.png" alt="Interation2" style="width:100%;">
+<img src="/Lab 1/images/storyboard_int3.png" alt="Interation3" style="width:33%;">
+<img src="/Lab 1/images/storyboard_int4.png" alt="Interation4" style="width:100%;">
+<img src="/Lab 1/images/storyboard_int5.png" alt="Interation5" style="width:100%;">
+<img src="/Lab 1/images/storyboard_int6.png" alt="Interation6" style="width:100%;">
+<img src="/Lab 1/images/storyboard_int7.png" alt="Interation7" style="width:100%;">
+Interaction 8
+<img src="/Lab 1/images/storyboard_int8.png" alt="Interation8" style="width:100%;">
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***Summarize feedback you got here.**\*\*
+**One of the feedback we got was that the light could also react to the location of where people are clustering**
 
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+**Q: Are there things that seemed better on paper than acted out?**
 
-\*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+**A: How the light change based on the club population size, especially interaction 3-7, was better on paper than acted out**
 
+**Q: Are there new ideas that occur to you or your collaborator that come up from the acting?**
+
+**A: As a result, Interaction 8 was actually an new idea that occured after acting out the interaction. We wanted to make the light more reactive to people's action than the states of the population size.**
 
 ## Part C. Prototype the device
 
@@ -102,8 +117,7 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
-\*\***Give us feedback on Tinkerbelle.**\*\*
-
+**Feedbacks on Tinkerbelle: It will be nice if we can add color gradiant or pattern to the color screen; and for the convinience of the project, it will also be helpful to add simple programming ability to allow user to program the light behavior of each interaction** 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -121,19 +135,43 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your devices might look like here.**\*\*
+**paper prototype / costume 1**
+<img src="/Lab 1/images/prototype1_sketch.png" alt="prototype1_sketch" style="width:100%;">
+<img src="/Lab 1/images/prototype1_costume.jpg" alt="prototype1_costume" style="width:50%;"><img src="/Lab 1/images/prototype1_costume2.jpg" alt="prototype1_costume2" style="width:50%;">
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+**paper prototype / costume 2**
+<img src="/Lab 1/images/prototype2_sketch.png" alt="prototype2_sketch" style="width:100%;">
+<img src="/Lab 1/images/prototype2_costume.jpg" alt="prototype2_costume" style="width:50%;"><img src="/Lab 1/images/prototype2_costume2.jpg" alt="prototype2_costume2" style="width:50%;">
+
+**paper prototype / costume 3**
+<img src="/Lab 1/images/prototype3_sketch.png" alt="prototype3_sketch" style="width:100%;">
+<img src="/Lab 1/images/prototype3_costume.jpg" alt="prototype3_costume" style="width:100%;">
+
+**Q: What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+**A: The actual lighting in a club. How realistic our phototype is mimicing the lighting experience in a club.**
 
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+[![Watch the video](https://img.youtube.com/vi/rX7Hptw_O2s/maxresdefault.jpg)](https://youtu.be/rX7Hptw_O2s)
 
-\*\***Please indicate who you collaborated with on this Lab.**\*\*
+Please indicate who you collaborated with on this Lab.
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+**The collaborators for this lab and their contributions are listed below**
 
+**Akash Batu: Storyboards #1, #2, #3, #4, #5, Wizarding Tinkerbelle**
+
+**Benthan Vu: Costume #1, Paper Prototype #1, Research & Feedback**
+
+**Carrie Wang: Wizarding the Device, Research & Feedback**
+
+**Evan Fang: Costume #2, Paper Prototype #2, Storyboard #8**
+
+**Sean Lewis: Storyboards #6, #7, Setting up Tinkerbelle**
+
+**Xuesi Chen: Costume #3, Paper Prototype #3, Demo Video Recording and Editing**
 
 # Staging Interaction, Part 2 
 
