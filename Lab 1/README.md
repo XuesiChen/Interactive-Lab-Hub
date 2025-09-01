@@ -165,7 +165,7 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 **Akash Batu: Storyboards #1, #2, #3, #4, #5, Wizarding Tinkerbelle**
 
-**Benthan Vu: Costume #1, Paper Prototype #1, Research & Feedback**
+**Benthan Vu: Costume #3, Paper Prototype #3, Research & Feedback**
 
 **Carrie Wang: Tinkerbell video recording**
 
@@ -173,7 +173,7 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 **Sean Lewis: Storyboards #6, #7, Setting up Tinkerbelle**
 
-**Xuesi Chen: Costume #3, Paper Prototype #3, Part D second half, Demo Video Recording and Editing**
+**Xuesi Chen: Costume #1, Paper Prototype #1, Part D second half, Demo Video Recording and Editing**
 
 # Staging Interaction, Part 2 
 
