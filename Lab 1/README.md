@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-**Akash Basu, Benthan Vu, Evan Fang, Sean Lewis, Xuesi Chen**
+**Akash Basu, Benthan Vu, Evan Fang, Sean Lewis, Xuesi Chen, Carrie Wang**
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -122,11 +122,12 @@ If you run into technical issues with this tool, you can also use a light switch
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+**[click to see the video](https://youtu.be/H7vDTAfB73E)**
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
-\*\***Show the follow-up work here.**\*\*
+**The goal is to flash the screen/lighting to white when someone enters the club**
+**[click to see the video](https://youtu.be/fpBXnUtyK9c)**
 
 
 ## Part E. Costume the device
@@ -154,6 +155,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 ## Part F. Record
 
+**Click on the below image to play the video on YouTube**
 [![Watch the video](https://img.youtube.com/vi/rX7Hptw_O2s/maxresdefault.jpg)](https://youtu.be/rX7Hptw_O2s)
 
 Please indicate who you collaborated with on this Lab.
@@ -165,13 +167,13 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 **Benthan Vu: Costume #1, Paper Prototype #1, Research & Feedback**
 
-**Carrie Wang: Wizarding the Device, Research & Feedback**
+**Carrie Wang: Tinkerbell video recording**
 
 **Evan Fang: Costume #2, Paper Prototype #2, Storyboard #8**
 
 **Sean Lewis: Storyboards #6, #7, Setting up Tinkerbelle**
 
-**Xuesi Chen: Costume #3, Paper Prototype #3, Demo Video Recording and Editing**
+**Xuesi Chen: Costume #3, Paper Prototype #3, Part D second half, Demo Video Recording and Editing**
 
 # Staging Interaction, Part 2 
 
