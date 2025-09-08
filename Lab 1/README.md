@@ -208,13 +208,21 @@ Do last week’s assignment again, but this time:
 <img src="/Lab 1/images/storyboard2_2.png" alt="storyboard2" style="width:100%;">
 
 **Prototypes**
+
 prototype1
+
 <img src="/Lab 1/images/prototype21_sketch.jpg" alt="prototype1_sketch" style="width:50%;"><img src="/Lab 1/images/prototype21_costume.jpg" alt="prototype1_sketch" style="width:50%;">
+
 prototype2
+
 <img src="/Lab 1/images/prototype22_sketch.png" alt="prototype2_sketch" style="width:30%;"><img src="/Lab 1/images/prototype22_costume.jpg" alt="prototype2_sketch" style="width:45%;"><img src="/Lab 1/images/prototype22_costume2.jpg" alt="prototype2_sketch" style="width:45%;">
+
 prototype3
+
 <img src="/Lab 1/images/prototype23_sketch.png" style="width:30%;"><img src="/Lab 1/images/prototype23_costume.png" style="width:40%;"><img src="/Lab 1/images/prototype23_costume2.png" style="width:40%;">
+
 prototype4
+
 <img src="/Lab 1/images/prototype24_sketch.png" alt="prototype1_sketch" style="width:50%;"><img src="/Lab 1/images/prototype24_costume.jpg" alt="prototype1_sketch" style="width:30%;">
 
 **Demo video**
