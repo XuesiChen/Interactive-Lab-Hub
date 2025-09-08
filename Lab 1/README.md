@@ -218,7 +218,8 @@ prototype4
 <img src="/Lab 1/images/prototype24_sketch.png" alt="prototype1_sketch" style="width:50%;"><img src="/Lab 1/images/prototype24_costume.jpg" alt="prototype1_sketch" style="width:30%;">
 
 **Demo video**
+
 **Click on the below image to play the video on YouTube**
 [![Interaction 1](https://img.youtube.com/vi/P6OD9Nkx6Zo/maxresdefault.jpg)](https://youtu.be/P6OD9Nkx6Zo)
 [![Interaction 2](https://img.youtube.com/vi/OVKQ0Crpg1U/maxresdefault.jpg)](https://youtu.be/OVKQ0Crpg1U)
-[![Interaction 8](https://img.youtube.com/vi/VP41gEIq1A8/maxresdefault.jpg)](https://youtu.be/VP41gEIq1A8)
+[![Interaction 3](https://img.youtube.com/vi/VP41gEIq1A8/maxresdefault.jpg)](https://youtu.be/VP41gEIq1A8)
